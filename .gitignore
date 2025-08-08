@@ -20,5 +20,5 @@ Thumbs.db
 # Ignore database and IDE files
 *.sqlite3
 .vscode/
-
+posts.db
 instance
